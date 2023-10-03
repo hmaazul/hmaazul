@@ -1,3 +1,4 @@
+
 # Hi there, I am Maaz Ul Haque
 
 ##  About Me	
@@ -14,6 +15,21 @@
 
 ## Skills
 ![HTML5](https://raw.githubusercontent.com/hmaazul/hmaazul/main/img/icons8-html5-96.png) ![CSS3](https://raw.githubusercontent.com/hmaazul/hmaazul/main/img/icons8-css-96.png) ![js](https://github.com/hmaazul/hmaazul/blob/main/img/icons8-js-96.png?raw=true) ![github](https://raw.githubusercontent.com/hmaazul/hmaazul/main/img/icons8-github-96.png) ![git](https://raw.githubusercontent.com/hmaazul/hmaazul/main/img/icons8-git-96.png)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hmaazul&repo=github-readme-stats)](https://github.com/hmaazul/github-readme-stats)
+
+<a href="https://github.com/hmaazul/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmaazul&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmaazul&show_icons=true&theme=radical)
+
+
+
+
+
 
 <!--
 **hmaazul/hmaazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
